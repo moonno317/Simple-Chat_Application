@@ -8,7 +8,7 @@
 
 int main() {
     int clientSocket;
-    struct sockaddr_in serverAddress;
+    struct sockaddr_in serverAddressawdawdawdawdawd;
     char buffer[BUFFER_SIZE];
 
     clientSocket = socket(AF_INET, SOCK_STREAM, 0);
